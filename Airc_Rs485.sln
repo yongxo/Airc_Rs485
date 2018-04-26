@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Airc_Rs485", "Airc_Rs485\Airc_Rs485.vcproj", "{33C58555-7160-4902-B991-81626ACB8BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ce50_2440a_test (ARMV4I) = Debug|ce50_2440a_test (ARMV4I)
+		Release|ce50_2440a_test (ARMV4I) = Release|ce50_2440a_test (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Debug|ce50_2440a_test (ARMV4I).ActiveCfg = Debug|ce50_2440a_test (ARMV4I)
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Debug|ce50_2440a_test (ARMV4I).Build.0 = Debug|ce50_2440a_test (ARMV4I)
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Debug|ce50_2440a_test (ARMV4I).Deploy.0 = Debug|ce50_2440a_test (ARMV4I)
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Release|ce50_2440a_test (ARMV4I).ActiveCfg = Release|ce50_2440a_test (ARMV4I)
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Release|ce50_2440a_test (ARMV4I).Build.0 = Release|ce50_2440a_test (ARMV4I)
+		{33C58555-7160-4902-B991-81626ACB8BD9}.Release|ce50_2440a_test (ARMV4I).Deploy.0 = Release|ce50_2440a_test (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
